@@ -1,6 +1,7 @@
 <?php
     // deploy php app to heroku
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -12,7 +13,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Freelancer - Start Bootstrap Theme</title>
+    <title>Julian Owyong - Online Portfolio</title>
 
     <!-- Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -47,7 +48,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#page-top">Start Bootstrap</a>
+                <a class="navbar-brand" href="#page-top">Julian Owyong</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -77,11 +78,11 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <img class="img-responsive" src="img/profile.png" alt="">
+                    <img class="img-responsive" src="img/profile_new.png" alt="">
                     <div class="intro-text">
-                        <span class="name">Start Bootstrap</span>
+                        <span class="name">Welcome to my Portfolio</span>
                         <hr class="star-light">
-                        <span class="skills">Web Developer - Graphic Artist - User Experience Designer</span>
+                        <span class="skills">Front End Developer - UI Engineer - Code Monkey</span>
                     </div>
                 </div>
             </div>
@@ -173,15 +174,15 @@
             </div>
             <div class="row">
                 <div class="col-lg-4 col-lg-offset-2">
-                    <p>Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy customization.</p>
+                    <p>Hello! My name is Julian Owyong and I love to &lt;code&gt;. As a visual person I enjoy working on the client side although I do have experience working up and down the stack.</p>
                 </div>
                 <div class="col-lg-4">
-                    <p>Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!</p>
+                    <p>I'm also a huge nerd and will unabashedly proclaim my love for comics, anime, and boardgames. I also like to hike and travel. And eat. Mmmm...</p>
                 </div>
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <a href="#" class="btn btn-lg btn-outline">
+<!--                     <a href="#" class="btn btn-lg btn-outline">
                         <i class="fa fa-download"></i> Download Theme
-                    </a>
+                    </a> -->
                 </div>
             </div>
         </div>
@@ -249,31 +250,32 @@
                 <div class="row">
                     <div class="footer-col col-md-4">
                         <h3>Location</h3>
-                        <p>3481 Melrose Place<br>Beverly Hills, CA 90210</p>
+                        <p>Probably in Las Vegas, NV.<br>Definitely somewhere in the Southwest.</p>
                     </div>
                     <div class="footer-col col-md-4">
                         <h3>Around the Web</h3>
                         <ul class="list-inline">
                             <li>
-                                <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+                                <a href="https://www.facebook.com/julian.owyong" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
                             </li>
                             <li>
-                                <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-google-plus"></i></a>
+                                <a href="https://plus.google.com/100106916004261564726/posts" class="btn-social btn-outline"><i class="fa fa-fw fa-google-plus"></i></a>
                             </li>
                             <li>
-                                <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
+                                <a href="https://github.com/jowyong" class="btn-social btn-outline"><i class="fa fa-fw fa-github"></i></a>
                             </li>
+                            <!-- <li>
+                                <a href="https://twitter.com/flipfilmaka" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
+                            </li> -->
                             <li>
-                                <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a>
+                                <a href="http://www.linkedin.com/pub/julian-owyong/46/353/8b4" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a>
                             </li>
-                            <li>
-                                <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-dribbble"></i></a>
-                            </li>
+
                         </ul>
                     </div>
                     <div class="footer-col col-md-4">
-                        <h3>About Freelancer</h3>
-                        <p>Freelance is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.</p>
+                        <h3>Special Thanks</h3>
+                        <p>I built this site with the help of a free, open-source Bootstrap theme created by <a href="http://startbootstrap.com">these folks</a>.</p>
                     </div>
                 </div>
             </div>
@@ -282,7 +284,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        Copyright &copy; Your Website 2014
+                        Copyright &copy; Julian Owyong 2014
                     </div>
                 </div>
             </div>
