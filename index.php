@@ -80,7 +80,7 @@
                 <div class="col-lg-12">
                     <img class="img-responsive" src="img/profile_new.png" alt="">
                     <div class="intro-text">
-                        <span class="name">Welcome to my Portfolio</span>
+                        <span class="name">This is me. I <small><i class="fa fa-heart"></i></small> &lt;code&gt;.</span>
                         <hr class="star-light">
                         <span class="skills">Front End Developer - UI Engineer - Code Monkey</span>
                     </div>
@@ -99,7 +99,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-sm-4 portfolio-item">
+<!--                 <div class="col-sm-4 portfolio-item">
                     <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
                         <div class="caption">
                             <div class="caption-content">
@@ -138,7 +138,7 @@
                         </div>
                         <img src="img/portfolio/game.png" class="img-responsive" alt="">
                     </a>
-                </div>
+                </div> -->
                 <div class="col-sm-4 portfolio-item">
                     <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
                         <div class="caption">
@@ -146,7 +146,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/safe.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/udemia_home.png" class="img-responsive" alt="">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -156,7 +156,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/submarine.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/udemia_professors.png" class="img-responsive" alt="">
                     </a>
                 </div>
             </div>
@@ -174,13 +174,13 @@
             </div>
             <div class="row">
                 <div class="col-lg-4 col-lg-offset-2">
-                    <p>Hello! My name is Julian Owyong and I love to &lt;code&gt;. As a visual person I enjoy working on the client side although I do have experience working up and down the stack.</p>
+                    <p>Hello! My name is Julian Owyong and I'm a programmer. As a visual person I enjoy working on the client side although I do have experience working up and down the technology stack.</p>
                 </div>
                 <div class="col-lg-4">
-                    <p>I'm also a huge nerd and will unabashedly proclaim my love for comics, anime, and boardgames. I also like to hike and travel. And eat. Mmmm...</p>
+                    <p>I'm a huge nerd and will unabashedly proclaim my love for comics, anime, and boardgames. I also like to hike and travel. And eat. Mmmm...</p>
                 </div>
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-<!--                     <a href="#" class="btn btn-lg btn-outline">
+                    <!-- <a href="#" class="btn btn-lg btn-outline">
                         <i class="fa fa-download"></i> Download Theme
                     </a> -->
                 </div>
@@ -275,7 +275,7 @@
                     </div>
                     <div class="footer-col col-md-4">
                         <h3>Special Thanks</h3>
-                        <p>I built this site with the help of a free, open-source Bootstrap theme created by <a href="http://startbootstrap.com">these folks</a>.</p>
+                        <p>I built this site using a free, open-source Bootstrap theme created by <a href="http://startbootstrap.com">these lovely folks</a>.</p>
                     </div>
                 </div>
             </div>
@@ -299,7 +299,7 @@
     </div>
 
     <!-- Portfolio Modals -->
-    <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
+<!--     <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
                 <div class="lr">
@@ -446,7 +446,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
@@ -459,22 +459,19 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Project Title</h2>
+                            <h2>Udemia - Home</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/safe.png" class="img-responsive img-centered" alt="">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
+                            <img src="img/portfolio/udemia_home.png" class="img-responsive img-centered" alt="">
+                            <p></p>
                             <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
-                                    </strong>
+                                <li>Company:
+                                    <strong><a href="http://udemia.com/">Udemia</a></strong>
                                 </li>
                                 <li>Date:
-                                    <strong><a href="http://startbootstrap.com">April 2014</a>
-                                    </strong>
+                                    <strong><span class="item-detail">Jun '11 - Aug '13</span></strong>
                                 </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">Web Development</a>
-                                    </strong>
+                                <li>Position:
+                                    <strong><span class="item-detail">Software Engineer</span></strong>
                                 </li>
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
@@ -496,22 +493,19 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Project Title</h2>
+                            <h2>Udemia - Professors</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/submarine.png" class="img-responsive img-centered" alt="">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
+                            <img src="img/portfolio/udemia_professors.png" class="img-responsive img-centered" alt="">
+                            <p></p>
                             <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
-                                    </strong>
+                                <li>Company:
+                                    <strong><a href="http://udemia.com/">Udemia</a></strong>
                                 </li>
                                 <li>Date:
-                                    <strong><a href="http://startbootstrap.com">April 2014</a>
-                                    </strong>
+                                    <strong><span class="item-detail">Jun '11 - Aug '13</span></strong>
                                 </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">Web Development</a>
-                                    </strong>
+                                <li>Position:
+                                    <strong><span class="item-detail">Software Engineer</span></strong>
                                 </li>
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
