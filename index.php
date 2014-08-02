@@ -78,9 +78,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <img class="img-responsive" src="img/profile_new.png" alt="">
+                    <!-- <img class="img-responsive" src="img/profile_new.png" alt=""> -->
                     <div class="intro-text">
-                        <span class="name">This is me. I <small><i class="fa fa-heart"></i></small> &lt;code&gt;.</span>
+                        <span class="name">I <small><i class="fa fa-heart"></i></small> &lt;code&gt;</span>
                         <hr class="star-light">
                         <span class="skills">Front End Developer - UI Engineer - Code Monkey</span>
                     </div>
@@ -146,7 +146,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/udemia_home.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/allegiant_list.png" class="img-responsive" alt="">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -156,7 +156,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/udemia_professors.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/udemia_home.png" class="img-responsive" alt="">
                     </a>
                 </div>
             </div>
@@ -264,9 +264,6 @@
                             <li>
                                 <a href="https://github.com/jowyong" class="btn-social btn-outline"><i class="fa fa-fw fa-github"></i></a>
                             </li>
-                            <!-- <li>
-                                <a href="https://twitter.com/flipfilmaka" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
-                            </li> -->
                             <li>
                                 <a href="http://www.linkedin.com/pub/julian-owyong/46/353/8b4" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a>
                             </li>
@@ -459,16 +456,25 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Udemia - Home</h2>
+                            <h2>Equipment Swap</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/udemia_home.png" class="img-responsive img-centered" alt="">
-                            <p></p>
+                            <h3>Mappings List</h3>
+                            <img src="img/portfolio/allegiant_list.png" class="img-responsive img-centered" alt="">
+                            <h3>Edit Mapping</h3>
+                            <img src="img/portfolio/allegiant_edit.png" class="img-responsive img-centered" alt="">
+                            <p>Implemented Front-End development from mock-up to release:</p>
+                            <ul class="modal-list">
+                                <li class="modal-list-item">technology stack included Angular.js, AngularUI, Stylus preprocessor</li>
+                                <li class="modal-list-item">using Angular.js directives to dynamically create seatmaps</li>
+                                <li class="modal-list-item">onHover event on individual seats triggers tooltip (AngularUI) to show seat details</li>
+                                <li class="modal-list-item">seat mapping functionality using $emit and $broadcast from Angular services</li>
+                            </ul>
                             <ul class="list-inline item-details">
                                 <li>Company:
-                                    <strong><a href="http://udemia.com/">Udemia</a></strong>
+                                    <strong><a href="https://www.allegiantair.com/">Allegiant Travel</a></strong>
                                 </li>
                                 <li>Date:
-                                    <strong><span class="item-detail">Jun '11 - Aug '13</span></strong>
+                                    <strong><span class="item-detail">Jan '14 - Jun '14</span></strong>
                                 </li>
                                 <li>Position:
                                     <strong><span class="item-detail">Software Engineer</span></strong>
@@ -493,10 +499,19 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Udemia - Professors</h2>
+                            <h2>Udemia</h2>
                             <hr class="star-primary">
+                            <h3>Home Page</h3>
+                            <img src="img/portfolio/udemia_home.png" class="img-responsive img-centered" alt="">
+                            <h3>Professors Page</h3>
                             <img src="img/portfolio/udemia_professors.png" class="img-responsive img-centered" alt="">
-                            <p></p>
+                            <p>Responsible for implementing the client-side of both the 'Home' and 'Professors' pages which included:</p>
+                            <ul class="modal-list">
+                                <li class="modal-list-item">writing semantic HTML</li>
+                                <li class="modal-list-item">implement styling (using SASS + Compass) to specified mockup</li>
+                                <li class="modal-list-item">use JavaScript prototypal inheritance to structure code</li>
+                                <li class="modal-list-item">making Ajax calls to the server and properly display data</li>
+                            </ul>
                             <ul class="list-inline item-details">
                                 <li>Company:
                                     <strong><a href="http://udemia.com/">Udemia</a></strong>
