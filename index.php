@@ -427,8 +427,8 @@
                             <img src="img/portfolio/zappos_detail.png" class="img-responsive img-centered" alt="">
                             <p>Tasked with adding features to internal tool that included:</p>
                             <ul class="modal-list">
-                                <li class="modal-list-item">working within a 9-person team</li>
-                                <li class="modal-list-item">communicating effectively with project/product managers, UX research/design, analytics, and back-end devs</li>
+                                <li class="modal-list-item">working effectively within a 9-person team</li>
+                                <li class="modal-list-item">communicating with project/product managers, UX research/design, analytics, and back-end devs</li>
                                 <li class="modal-list-item">using Handlebars.js for templating</li>
                                 <li class="modal-list-item">utilizing proprietary technologies related to build tools, environments, version sets, and deployment</li>
                                 <li class="modal-list-item">Agile development: Scrum, feature prioritization, sprint planning/retrospectives</li>
