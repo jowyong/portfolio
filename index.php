@@ -136,7 +136,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/zappos_list.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/zappos_logo.png" class="img-responsive" alt="">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -146,7 +146,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/allegiant_list.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/allegiant_logo.png" class="img-responsive" alt="">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -156,7 +156,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/udemia_home.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/udemia_logo.png" class="img-responsive" alt="">
                     </a>
                 </div>
             </div>
