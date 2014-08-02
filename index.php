@@ -99,7 +99,7 @@
                 </div>
             </div>
             <div class="row">
-<!--                 <div class="col-sm-4 portfolio-item">
+                <!-- <div class="col-sm-4 portfolio-item">
                     <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
                         <div class="caption">
                             <div class="caption-content">
@@ -128,7 +128,7 @@
                         </div>
                         <img src="img/portfolio/circus.png" class="img-responsive" alt="">
                     </a>
-                </div>
+                </div> -->
                 <div class="col-sm-4 portfolio-item">
                     <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
                         <div class="caption">
@@ -136,9 +136,9 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/game.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/zappos_list.png" class="img-responsive" alt="">
                     </a>
-                </div> -->
+                </div>
                 <div class="col-sm-4 portfolio-item">
                     <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
                         <div class="caption">
@@ -296,7 +296,7 @@
     </div>
 
     <!-- Portfolio Modals -->
-<!--     <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
+    <!-- <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
                 <div class="lr">
@@ -406,7 +406,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
@@ -419,22 +419,29 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Project Title</h2>
+                            <h2>Outfit Builder</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/game.png" class="img-responsive img-centered" alt="">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
+                            <h3>Outfit List</h3>
+                            <img src="img/portfolio/zappos_list.png" class="img-responsive img-centered" alt="">
+                            <h3>Outfit Detail</h3>
+                            <img src="img/portfolio/zappos_detail.png" class="img-responsive img-centered" alt="">
+                            <p>Tasked with adding features to internal tool that included:</p>
+                            <ul class="modal-list">
+                                <li class="modal-list-item">working within a 9-person team</li>
+                                <li class="modal-list-item">communicating effectively with project/product managers, UX research/design, analytics, and back-end devs</li>
+                                <li class="modal-list-item">using Handlebars.js for templating</li>
+                                <li class="modal-list-item">utilizing proprietary technologies related to build tools, environments, version sets, and deployment</li>
+                                <li class="modal-list-item">Agile development: Scrum, feature prioritization, sprint planning/retrospectives</li>
+                            </ul>
                             <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
-                                    </strong>
+                                <li>Company:
+                                    <strong><a href="http://www.zappos.com/">Zappos.com</a></strong>
                                 </li>
                                 <li>Date:
-                                    <strong><a href="http://startbootstrap.com">April 2014</a>
-                                    </strong>
+                                    <strong><span class="item-detail">Jun '14 - Aug '14</span></strong>
                                 </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">Web Development</a>
-                                    </strong>
+                                <li>Position:
+                                    <strong><span class="item-detail">Front End Development Intern</span></strong>
                                 </li>
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
@@ -443,7 +450,7 @@
                 </div>
             </div>
         </div>
-    </div> -->
+    </div>
     <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
@@ -462,16 +469,16 @@
                             <img src="img/portfolio/allegiant_list.png" class="img-responsive img-centered" alt="">
                             <h3>Edit Mapping</h3>
                             <img src="img/portfolio/allegiant_edit.png" class="img-responsive img-centered" alt="">
-                            <p>Implemented Front-End development from mock-up to release:</p>
+                            <p>Implemented Angular.js SPA from mock-up to release which included:</p>
                             <ul class="modal-list">
-                                <li class="modal-list-item">technology stack included Angular.js, AngularUI, Stylus preprocessor</li>
                                 <li class="modal-list-item">using Angular.js directives to dynamically create seatmaps</li>
                                 <li class="modal-list-item">onHover event on individual seats triggers tooltip (AngularUI) to show seat details</li>
                                 <li class="modal-list-item">seat mapping functionality using $emit and $broadcast from Angular services</li>
+                                <li class="modal-list-item">styling using Stylus CSS preprocessor</li>
                             </ul>
                             <ul class="list-inline item-details">
                                 <li>Company:
-                                    <strong><a href="https://www.allegiantair.com/">Allegiant Travel</a></strong>
+                                    <strong><a href="http://www.allegiantair.com/">Allegiant Travel</a></strong>
                                 </li>
                                 <li>Date:
                                     <strong><span class="item-detail">Jan '14 - Jun '14</span></strong>
@@ -505,12 +512,12 @@
                             <img src="img/portfolio/udemia_home.png" class="img-responsive img-centered" alt="">
                             <h3>Professors Page</h3>
                             <img src="img/portfolio/udemia_professors.png" class="img-responsive img-centered" alt="">
-                            <p>Responsible for implementing the client-side of both the 'Home' and 'Professors' pages which included:</p>
+                            <p>Implemented client-side code of both the 'Home' and 'Professors' pages which included:</p>
                             <ul class="modal-list">
                                 <li class="modal-list-item">writing semantic HTML</li>
                                 <li class="modal-list-item">implement styling (using SASS + Compass) to specified mockup</li>
                                 <li class="modal-list-item">use JavaScript prototypal inheritance to structure code</li>
-                                <li class="modal-list-item">making Ajax calls to the server and properly display data</li>
+                                <li class="modal-list-item">making Ajax calls to the server, format and properly display data</li>
                             </ul>
                             <ul class="list-inline item-details">
                                 <li>Company:
