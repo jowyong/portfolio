@@ -421,10 +421,10 @@
                         <div class="modal-body">
                             <h2>Outfit Builder</h2>
                             <hr class="star-primary">
-                            <h3>Outfit List</h3>
+                           <!--  <h3>Outfit List</h3>
                             <img src="img/portfolio/zappos_list.png" class="img-responsive img-centered" alt="">
                             <h3>Outfit Detail</h3>
-                            <img src="img/portfolio/zappos_detail.png" class="img-responsive img-centered" alt="">
+                            <img src="img/portfolio/zappos_detail.png" class="img-responsive img-centered" alt=""> -->
                             <p>Tasked with adding features to internal tool that included:</p>
                             <ul class="modal-list">
                                 <li class="modal-list-item">working effectively within a 9-person team</li>
@@ -465,10 +465,10 @@
                         <div class="modal-body">
                             <h2>Equipment Swap</h2>
                             <hr class="star-primary">
-                            <h3>Mappings List</h3>
+                            <!-- <h3>Mappings List</h3>
                             <img src="img/portfolio/allegiant_list.png" class="img-responsive img-centered" alt="">
                             <h3>Edit Mapping</h3>
-                            <img src="img/portfolio/allegiant_edit.png" class="img-responsive img-centered" alt="">
+                            <img src="img/portfolio/allegiant_edit.png" class="img-responsive img-centered" alt=""> -->
                             <p>Implemented Angular.js SPA from mock-up to release which included:</p>
                             <ul class="modal-list">
                                 <li class="modal-list-item">using Angular.js directives to dynamically create seatmaps</li>
@@ -508,10 +508,10 @@
                         <div class="modal-body">
                             <h2>Udemia</h2>
                             <hr class="star-primary">
-                            <h3>Home Page</h3>
+                           <!--  <h3>Home Page</h3>
                             <img src="img/portfolio/udemia_home.png" class="img-responsive img-centered" alt="">
                             <h3>Professors Page</h3>
-                            <img src="img/portfolio/udemia_professors.png" class="img-responsive img-centered" alt="">
+                            <img src="img/portfolio/udemia_professors.png" class="img-responsive img-centered" alt=""> -->
                             <p>Implemented client-side code of both the 'Home' and 'Professors' pages which included:</p>
                             <ul class="modal-list">
                                 <li class="modal-list-item">writing semantic HTML</li>
